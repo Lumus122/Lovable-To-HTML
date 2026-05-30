@@ -5,7 +5,7 @@ It is designed to help turn a Lovable / Vite project into a final HTML build whi
 
 ## What is Lovable-To-HTML?
 
-Lovable-To-HTML is an AI-built Python converter for Lovable projects.  
+Lovable-To-HTML is a Python-based converter for Lovable projects, developed with AI assistance.
 It works on an already extracted project folder, detects the project structure, installs dependencies, updates the required files, and generates a ready-to-use HTML output.
 
 This tool is useful when you need to export a Lovable project to HTML, create a static website build, or automate the conversion of a Lovable/Vite app into a single deployable result.
