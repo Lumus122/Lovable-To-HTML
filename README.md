@@ -1,6 +1,4 @@
-# Lovable-To-HTML
-
-Lovable To HTML is a Python tool that converts an extracted Z## What is Lovable-To-HTML?
+## What is Lovable-To-HTML?
 
 Lovable-To-HTML is a Python-based converter for Lovable projects, developed with AI assistance.
 It works on an already extracted project folder, detects the project structure, installs dependencies, updates the required files, and generates a ready-to-use HTML output.
